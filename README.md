@@ -1,2 +1,2 @@
 # git-github2
-# test
+This is a readme file
